@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's a REDUX demo using a real structured folder, same as my company btw.
+
 ## Available Scripts
 
 In the project directory, you can run:
